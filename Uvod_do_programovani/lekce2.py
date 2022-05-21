@@ -1,0 +1,5 @@
+print("*"*100)
+print("MiraLiska@gmail.com"[4:9])
+print("MiraLiska@gmail.com"[::-1])
+print("MiraLiska@gmail.com"[::-2])
+print("*"*100)
