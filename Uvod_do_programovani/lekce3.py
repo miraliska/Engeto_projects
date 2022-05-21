@@ -8,15 +8,15 @@ print(nova_hodnota)
 print(type(nova_hodnota))
 PI = 3.141592
 print(PI)
-seznam=[10,21,32,43,54]
+seznam = [10, 21, 32, 43, 54]
 print(seznam)
-print(seznam[::2])
-print(seznam[::-1])
-seznam1=[]
+print(seznam[:: 2])
+print(seznam[:: -1])
+seznam1 = []
 print(type(seznam1))
-seznam2=list()
+seznam2 = list()
 print(type(seznam2))
-seznam3=()
+seznam3 = ()
 print(type(seznam3))
-seznam4=tuple()
+seznam4 = tuple()
 print(type(seznam4))
